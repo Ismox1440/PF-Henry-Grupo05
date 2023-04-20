@@ -9,7 +9,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1152/1152755.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Paws Founding</h3>
+<h3 align="center">Paws Founding </h3>
 
   <p align="center">
     A crowdfounding platform, made by animal lovers: for animal lovers.
